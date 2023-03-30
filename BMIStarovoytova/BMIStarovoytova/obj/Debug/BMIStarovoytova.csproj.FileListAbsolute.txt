@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\bin\Debug\BMIStarovoytova.exe.config
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\bin\Debug\BMIStarovoytova.exe
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\bin\Debug\BMIStarovoytova.pdb
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.Form1.resources
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.Properties.Resources.resources
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.exe
+C:\Users\student\Desktop\Рогов\MDK-01.02-main\BMIStarovoytova\BMIStarovoytova\obj\Debug\BMIStarovoytova.pdb
